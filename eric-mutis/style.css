@@ -10,7 +10,7 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
 body {
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'EB Garamond', Garamond, 'Times New Roman', serif;
   color: var(--text);
   background: var(--bg);
   line-height: 1.75;
@@ -25,7 +25,7 @@ body {
 }
 
 h1 {
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'EB Garamond', Garamond, 'Times New Roman', serif;
   font-size: 2.2rem;
   font-weight: 700;
   margin-bottom: 0.25rem;
@@ -64,7 +64,7 @@ aside.marginalia {
   font-size: 0.85rem;
   line-height: 1.6;
   color: var(--margin-text);
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'EB Garamond', Garamond, 'Times New Roman', serif;
   transition: border-color 0.2s;
 }
 
@@ -110,7 +110,7 @@ aside.marginalia strong {
 }
 
 .analysis h1, .analysis h2 {
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'EB Garamond', Garamond, 'Times New Roman', serif;
   color: var(--text);
 }
 
